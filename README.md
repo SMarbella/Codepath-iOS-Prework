@@ -1,5 +1,7 @@
 # Codepath-iOS-Prework
-This Codepath iOS prework project is a simple app that I created that transforms the user's basic information into an introduction. The app takes the first and last name, the school, age, and year in school from the user's inputs. The user can also put the number of cats and dogs they own. The text adapts to the number of cats and dogs, showing that it can check if the person has either no cats or dogs or multiple cats and dogs. I designed the app to match the theme of the University of Arizona.
+This Codepath iOS prework project is a simple app that I created that transforms the user's basic information into an introduction. The app takes the first and last name, the school, age, and year in school from the user's inputs. If the user does not fill in the information, the person's default name is John Smith. The default name of the school would be "an unspecified school."
+
+The user can also enter the number of cats and dogs they own. The text adapts to the number of cats and dogs, showing that it can check if the person has either no cats or dogs or multiple cats and dogs. The user has the option to wish for more pets. I designed the app to match the theme of the University of Arizona.
 
 https://courses.codepath.org/snippets/ios102/prework
 
