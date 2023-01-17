@@ -1,0 +1,27 @@
+
+/* Class = "UITextField"; placeholder = "School/Institution"; ObjectID = "4Z1-RI-g1D"; */
+"4Z1-RI-g1D.placeholder" = "School/Institution";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "IVN-Iq-MTk"; */
+"IVN-Iq-MTk.placeholder" = "Last Name";
+
+/* Class = "UISegmentedControl"; ZGW-OC-s24.segmentTitles[0] = "First"; ObjectID = "ZGW-OC-s24"; */
+"ZGW-OC-s24.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; ZGW-OC-s24.segmentTitles[1] = "Second"; ObjectID = "ZGW-OC-s24"; */
+"ZGW-OC-s24.segmentTitles[1]" = "Second";
+
+/* Class = "UISegmentedControl"; ZGW-OC-s24.segmentTitles[2] = "Third"; ObjectID = "ZGW-OC-s24"; */
+"ZGW-OC-s24.segmentTitles[2]" = "Third";
+
+/* Class = "UISegmentedControl"; ZGW-OC-s24.segmentTitles[3] = "Fourth"; ObjectID = "ZGW-OC-s24"; */
+"ZGW-OC-s24.segmentTitles[3]" = "Fourth";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "d6b-kl-P9h"; */
+"d6b-kl-P9h.text" = "0";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "nu5-Pt-I9A"; */
+"nu5-Pt-I9A.placeholder" = "First Name";
+
+/* Class = "UILabel"; text = "Pets"; ObjectID = "zIq-tS-EtG"; */
+"zIq-tS-EtG.text" = "Pets";
