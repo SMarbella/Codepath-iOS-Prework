@@ -3,7 +3,29 @@ This Codepath iOS prework project is a simple app that I created that transforms
 
 The user can also enter the number of cats and dogs they own. The text adapts to the number of cats and dogs, showing that it can check if the person has either no cats or dogs or multiple cats and dogs. The user has the option to wish for more pets. I designed the app to match the theme of the University of Arizona.
 
+Time spent: **18** hours spent in total
+
 https://courses.codepath.org/snippets/ios102/prework
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented features:
+
+<img src='https://i.imgur.com/vb7MsOl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/TzBSKQs
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with LICEcap
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+The challenge I encountered while building the app was that I had to learn a new programming language. Since I did not learn Swift before, it took me time to understand it and the ways the basics of Swift work. Another challenge I had to face was connecting each controls and their clicks to change the numbers representing their values. A third challenge I faced was to make the introduction indicate theAfter I figured it out, I added extra buttons to expand the app and improve the UI.
 
 
 # IOS102 Pre-work: Introduce Yourself
