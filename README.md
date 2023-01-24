@@ -26,7 +26,7 @@ GIF created with LICEcap
 
 Describe any challenges encountered while building the app.
 
-The challenge I encountered while building the app was that I had to learn a new programming language. Since I did not learn Swift before, it took me time to understand it and the ways the basics of Swift work. Another challenge I had to face was connecting each controls and their clicks to change the numbers representing their values. A third challenge I faced was to make the introduction indicate theAfter I figured it out, I added extra buttons to expand the app and improve the UI.
+The challenge I encountered while building the app was that I had to learn a new programming language. Since I did not learn Swift before, it took me time to understand it and the ways the basics of Swift work. Another challenge I had to face was connecting each controls and their clicks to change the numbers representing their values. A third challenge I faced was to make the introduction indicate the number of cats and dogs with the correct plural and singular quantifiers. After I figured it out, I added extra buttons to expand the app and improve the UI.
 
 
 # IOS102 Pre-work: Introduce Yourself
