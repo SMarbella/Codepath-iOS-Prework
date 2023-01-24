@@ -11,8 +11,9 @@ https://courses.codepath.org/snippets/ios102/prework
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/vb7MsOl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-https://imgur.com/a/TzBSKQs
+<img src='https://i.imgur.com/zk2VyJd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Longer walkthrough: https://imgur.com/a/TzBSKQs
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
